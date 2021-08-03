@@ -1,4 +1,4 @@
-#f34fa6b71742ce62bf83ff444bf1542af65bed81af43f97566a2efdd6cf6f939
+# To unpack f34fa6b71742ce62bf83ff444bf1542af65bed81af43f97566a2efdd6cf6f939
 def Searchciphertext (dump):
   for i in range (len(dump)):
     comsize = len(dump)
