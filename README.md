@@ -4,7 +4,7 @@ After opening a malicious document(IcedID), a malicious executable library is us
 
 Usage:
 
-python Unpacker-IcediD.py incoming file(IcediD.dll)  open payload
+python Unpacker-IcediD.py incoming file(IcediD.dll)   open payload
 
 Example:
 
